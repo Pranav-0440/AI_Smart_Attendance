@@ -4,6 +4,11 @@ An **AI-powered Smart Attendance System** that uses **Face Recognition** to auto
 This system eliminates manual attendance, reduces proxy attendance, and provides a real-time dashboard to monitor records.
 
 ---
+## 🌐 Live Demo
+
+https://ai-smart-attendance.streamlit.app/
+
+---
 
 ## 🚀 Features
 
